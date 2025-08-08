@@ -1,0 +1,1 @@
+opencv-python easyocr pillow matplotlib requests numpy
